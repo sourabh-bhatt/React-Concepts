@@ -59,7 +59,7 @@ This repository covers a wide range of React concepts, including but not limited
 - React and GraphQL
 - React Best Practices and Patterns
 - Next.js and React
-- React Native
+- Examples of react in real life of a developer
 
 Each concept is self-contained with its own README file and example code to make learning easy and enjoyable.
 
