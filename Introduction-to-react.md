@@ -12,6 +12,10 @@ React is a popular library for building dynamic web pages.
 
 - React is component-based, and learn-once-write-anywhere. React makes it painless to create interactive UIs.
 
+## React Bundlers
+
+React uses bunders like vite, parcel, webpack etc to create the react app. These bundlers helps react to launch the app.
+
 # Need of npm
 
 ```
